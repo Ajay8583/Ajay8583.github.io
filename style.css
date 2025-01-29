@@ -1,10 +1,11 @@
+
 body {
     background: rgb(71, 235, 118);
     color: rgb(85, 223, 16);
     padding: 10px;
     font-family: Arial, sans-serif;
 }
-
+  
 #all-contents {
     max-width: 800px;
     margin: auto;
